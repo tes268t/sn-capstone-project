@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="KeyBank University Enrollment" max_length="40" name="x_74571_kb_univ_ku_enrollment" sizeclass="0" type="collection">
+        <element label="Course" max_length="32" name="course" reference="x_74571_kb_univ_ku_course" type="reference"/>
+        <index name="index">
+            <element name="course"/>
+        </index>
+    </element>
+</database>

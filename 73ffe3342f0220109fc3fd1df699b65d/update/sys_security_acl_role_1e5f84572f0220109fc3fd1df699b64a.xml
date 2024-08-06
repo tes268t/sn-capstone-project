@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 16:53:39</sys_created_on>
+        <sys_id>1e5f84572f0220109fc3fd1df699b64a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_74571_kb_univ_ku_course.x_74571_kb_univ.sno_ku_admin</sys_name>
+        <sys_package display_value="KeyBank University" source="x_74571_kb_univ">73ffe3342f0220109fc3fd1df699b65d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KeyBank University">73ffe3342f0220109fc3fd1df699b65d</sys_scope>
+        <sys_security_acl display_value="x_74571_kb_univ_ku_course">5e5f84572f0220109fc3fd1df699b647</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1e5f84572f0220109fc3fd1df699b64a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 17:04:09</sys_updated_on>
+        <sys_user_role display_value="x_74571_kb_univ.sno_ku_admin" name="x_74571_kb_univ.sno_ku_admin">0b0110d72f0220109fc3fd1df699b61d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

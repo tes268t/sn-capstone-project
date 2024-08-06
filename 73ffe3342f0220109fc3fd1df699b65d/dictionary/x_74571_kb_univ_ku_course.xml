@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="KeyBank University Course" max_length="40" name="x_74571_kb_univ_ku_course" sizeclass="0" type="collection">
+        <element label="Instructor" max_length="32" name="instructor" reference="sys_user" type="reference"/>
+        <element label="Name" max_length="120" name="name" type="string"/>
+        <index name="index">
+            <element name="instructor"/>
+        </index>
+    </element>
+</database>
